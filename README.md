@@ -6,6 +6,7 @@ Links:
 Readings:
 http://computingtextiles.net/resources/
 http://www.blackmountaincollege.org/womenofbmc/?mc_cid=3e744a4285&mc_eid=d0e852dddc
+http://www.rrp.infim.ro/IP/AN801.pdf
 
 Art Direction:
 https://ikirejones.com/lineage
