@@ -2,6 +2,7 @@
 
 
 Links:
+https://tatterblue.libib.com/i/barbara-walker-swatch-library
 
 Readings:
 http://computingtextiles.net/resources/
